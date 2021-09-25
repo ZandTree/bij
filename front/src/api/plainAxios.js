@@ -1,5 +1,5 @@
 import axios from 'axios'
-let baseUrl = 'http://127.0.0.1:8000'
+let baseUrl = 'http://172.105.72.101:8000'
 
 
 
